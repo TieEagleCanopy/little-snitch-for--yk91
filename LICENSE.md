@@ -1,4 +1,4 @@
-# 
+# updated Little Snitch for macOS Addon | password-generator + vulnerability-scanner is the best Little Snitch for macOS addon, featuring password-generator and
 
 
 
